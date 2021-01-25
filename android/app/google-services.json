@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93083378903",
+    "project_id": "amomentorship",
+    "storage_bucket": "amomentorship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93083378903:android:e8ecb6079ac3fd88e1fc92",
+        "android_client_info": {
+          "package_name": "com.example.mentorship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93083378903-2j0l6cgb1h4l4ovo7l9oeut2r82d4ugf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZCK4-qAb26OzD6jdAGUiLiG1RiU4_C1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93083378903-2j0l6cgb1h4l4ovo7l9oeut2r82d4ugf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
